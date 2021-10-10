@@ -1,6 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
+# Research 
+PhD student at <a href="https://www.hvl.no/en/about/management/faculty-of-engineering-and-science/department-of-computer-science-electrical-engineering-and-mathematical-sciences-ny-side/"> Western Norway University of Applied Sciences, Department of Computer science, Electrical engineering and Mathematical sciences </a> and <a href="https://mmiv.no/"> Mohn Medical Imaging and Visualization Center, Department of Radiology, Haukeland University Hospital </a>. My research actives are mainly related to machine learning and medical image analysis, with a particular focus on design methodologies in deep learning for efficient use of data.
+<br>
