@@ -60,3 +60,19 @@ gems:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# Socialmedia Icons
+social_icons:
+
+  - name: github
+    link: https://github.com/AmmarMalik93
+    icon: fab fa-github-square
+
+  - name: linkedin
+    link: https://www.linkedin.com/in/muhammad-ammar-malik/
+    icon: fab fa-linkedin
+
+
+
+
