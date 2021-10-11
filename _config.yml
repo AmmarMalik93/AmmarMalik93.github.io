@@ -86,8 +86,8 @@ menu:
      icon: ""
 
    - text: Skills
-    link: /skills
-    icon: ""
+     link: /skills
+     icon: ""
 # Socialmedia Icons
 social_icons:
 
