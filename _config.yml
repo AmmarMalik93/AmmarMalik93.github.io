@@ -65,7 +65,7 @@ gems:
 
 # Side Menu Links
 menu:
-   - text: Research
+   - text: About Me
      link: /
      icon: ""
 
