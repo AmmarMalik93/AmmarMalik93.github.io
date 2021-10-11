@@ -62,6 +62,32 @@ gems:
 #   - vendor/ruby/
 
 
+
+# Side Menu Links
+menu:
+   - text: Research
+   - link: /
+   - icon: ""
+
+   - text: Publications
+   - link: /publications
+   - icon: ""
+
+   - text: Work Experience
+   - link: /experience
+   - icon: ""
+
+   - text: Certificates and Courses
+   - link: /certificates
+   - icon: ""
+
+   - text: Hobby Projects
+   - link: /hobbies
+   - icon: ""
+
+   - text: Skills
+   - link: /skills
+   - icon: ""
 # Socialmedia Icons
 social_icons:
 
