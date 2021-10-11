@@ -65,8 +65,8 @@ gems:
 
 # Side Menu Links
 menu:
-   - text: About Me
-     link: /
+   - text: Education
+     link: /education
      icon: ""
 
    - text: Publications
@@ -88,6 +88,10 @@ menu:
    - text: Skills
      link: /skills
      icon: ""
+
+   - text: About Me
+     link: /
+     icon:
 # Socialmedia Icons
 social_icons:
 
