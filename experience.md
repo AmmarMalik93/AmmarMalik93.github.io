@@ -2,7 +2,7 @@
 
 ## Feb. 2019 - Apr. 2021
 ### [PhD Researcher](https://www.uib.no/en/persons/Muhammad.Ammar.Malik) at [Computational Biology Unit, University of Bergen](<https://www.cbu.uib.no/>) 
-- Used machine learning algorithms to identify genotypes and phenotypes associated with Alzheimer’s disease.
+- Used machine learning algorithms to identify genotypes and phenotypes associated with high-dimensional phenotype data.
 - Working on developing deep convolutional network models to predict an individual’s genotype at a particular genome position from brain MRI.
 
 ## Mar. 2018 - Dec. 2018
