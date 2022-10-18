@@ -1,7 +1,8 @@
 # Education
-## Feb. 2020 - Feb. 2022
+## Feb. 2020 - Aug. 2022
 ### [PhD Computational Biology from University of Bergen, Norway](https://www.uib.no/en)
- - **Thesis title**: Unsupervised and scale-free discovery of genetic factors influencing brainstructure and function.
+ - **Thesis title**: Machine learning approaches for high-dimensional genome-wide association(https://bora.uib.no/bora-xmlui/handle/11250/3011013)
+studies.
 
 ## Mar. 2016 - Feb. 2018
 ### [Master's in Computer Engineering from Chosun University, South Korea](https://www3.chosun.ac.kr/eng/index.do)
