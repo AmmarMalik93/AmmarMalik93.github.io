@@ -1,6 +1,6 @@
 # Work Experience
 
-## Feb. 2019 - Apr. 2021
+## Feb. 2019 - Aug. 2022
 ### [PhD Researcher](https://www.uib.no/en/persons/Muhammad.Ammar.Malik) at [Computational Biology Unit, University of Bergen](<https://www.cbu.uib.no/>) 
 - Used machine learning algorithms to identify genotypes and phenotypes associated with high-dimensional phenotype data.
 - Working on developing deep convolutional network models to predict an individual’s genotype at a particular genome position from brain MRI.
