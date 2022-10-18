@@ -1,8 +1,7 @@
 # Education
 ## Feb. 2020 - Aug. 2022
 ### [PhD Computational Biology from University of Bergen, Norway](https://www.uib.no/en)
- - **Thesis title**: Machine learning approaches for high-dimensional genome-wide association(https://bora.uib.no/bora-xmlui/handle/11250/3011013)
-studies.
+ - **Thesis title**: [Machine learning approaches for high-dimensional genome-wide association studies](https://bora.uib.no/bora-xmlui/handle/11250/3011013)
 
 ## Mar. 2016 - Feb. 2018
 ### [Master's in Computer Engineering from Chosun University, South Korea](https://www3.chosun.ac.kr/eng/index.do)
